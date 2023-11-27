@@ -1,0 +1,15 @@
+//Class Definition
+Class Keyboard {
+  attributes:
+    KeyboardColor : string
+    CaseColor: string
+    Noise : string
+    Switches : string
+
+//these all return the obvious
+   methods()
+    getKeyboardColor()
+    getCasecColor()
+    getNoise()
+    getSwitches()
+}
