@@ -1,0 +1,13 @@
+Object: the object will be defined with four attributes
+  Color : the color of the keycaps
+  Noise : How loud the keyboard is
+  SwitchType : The type of switched used on the keyboard
+  CaseColor : The color of the case
+
+For managing this list we are going to use:
+  ArrayList for storing and quick addition/removal
+  Hashmap for quick search
+
+LinearSearch and Hashing will be used to sort it
+
+The UI will be a CLI with a /help option to describe the functions
